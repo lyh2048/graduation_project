@@ -11,16 +11,16 @@
 ## 项目结构
 
 ```bash
-|   embedded_position_analysis.mlx     ------ 水印嵌入位置分析
-|   encryption_algorithm.mlx		   ------ 加密算法实现
-|   encryption_algorithm_analysis.mlx  ------ 加密算法分析
-|   generate_watermark_image.m         ------ 水印图像生成
-|   LICENSE                            ------ MIT LICENSE
-|   nc.m							   ------ 计算归一化相关系数
-|   psnr.m                             ------ 计算峰值信噪比
-|   README.md                          ------ README.md
-|   watermarkApp.mlapp                 ------ 图形化界面
-|   watermark_algorithm.mlx            ------ 水印算法的实现与性能分析
+|-   embedded_position_analysis.mlx --------- 水印嵌入位置分析
+|-   encryption_algorithm.mlx --------------- 加密算法实现
+|-   encryption_algorithm_analysis.mlx ------ 加密算法分析
+|-   generate_watermark_image.m ------------- 水印图像生成
+|-   LICENSE -------------------------------- MIT LICENSE
+|-   nc.m ----------------------------------- 计算归一化相关系数
+|-   psnr.m --------------------------------- 计算峰值信噪比
+|-   README.md ------------------------------ README.md
+|-   watermarkApp.mlapp --------------------- 图形化界面
+|-   watermark_algorithm.mlx ---------------- 水印算法的实现与性能分析
 ```
 
 ## 效果展示
